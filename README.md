@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eripe14
 - 👀 I’m interested in java programing
 - 🌱 I’m currently learning how to code in java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you can write to me on discord eripe#1464
 
 <!---
