@@ -1,4 +1,4 @@
-##General info
+ General info
 
 - 👋 Hi, I’m @eripe14
 - 👀 I’m interested in java programing
