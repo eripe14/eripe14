@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @eripe14
 - 👀 I’m interested in java programing
 - 🌱 I’m currently learning FrontEnd
-- 📫 How to reach me? You can write to me on discord eripe14#8442
+- 📫 How to reach me? You can write to me on discord eripe14#3806
 
 
 
