@@ -1,3 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eripe14&show_icons=true&theme=dracula)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)]
+
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2053%20mins-blue)
