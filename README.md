@@ -3,7 +3,7 @@
 
 <details>
   <summary>About me</summary>
-  - 🤝 I am a member of the EternalCode organization, which focuses on developing open-source projects. [EternalCode](https:github.com/EternalCode)
+  - 🤝 I am a member of the EternalCode organization, which focuses on developing open-source projects. [Google](https://www.google.com)
 
   - 🔭 I’m currently learning **Java**
 
