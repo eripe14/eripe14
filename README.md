@@ -3,7 +3,7 @@
 
 <details>
   <summary>About me</summary>
-  - 🤝 I am a member of the EternalCode organization, which focuses on developing open-source projects. [Google](https://www.google.com)
+  - 🤝 I am a member of the EternalCode organization, which focuses on developing open-source projects. <a href = "https://github.com/">GitHub</a>
 
   - 🔭 I’m currently learning **Java**
 
@@ -15,7 +15,7 @@
 <details>
   <summary>GitHub statistics</summary>
   <p align = "center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eripe14&count_private=true&show_icons=true&theme=dracula)
+    <img href = "https://github-readme-stats.vercel.app/api?username=eripe14&count_private=true&show_icons=true&theme=dracula"></img> 
   </p>
 </details>
 
