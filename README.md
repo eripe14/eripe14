@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karol Dronia, also known as eripe14</h1>
 <h3 align="center">I'm a passionate Java developer from Poland</h3>
 
-- 🔭 I am a member of the EternalCode organization, which focuses on developing open-source projects. **[EternalCode]**(https://github.com/EternalCodeTeam)
+- 🔭 I am a member of the EternalCode organization, which focuses on developing open-source projects. [EternalCode](https://github.com/EternalCodeTeam)
 
 - 🌱 I’m currently learning **Java**
 
