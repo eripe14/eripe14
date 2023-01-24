@@ -3,7 +3,7 @@
 
 <details>
   <summary>About me</summary>
-  - 🤝 I am a member of the EternalCode organization, which focuses on developing open-source projects. <a href = "https://github.com/">GitHub</a>
+   &#8226 🤝 I am a member of the EternalCode organization, which focuses on developing open-source projects. <a href = "https://github.com/EternalCodeTeam">EternalCodeTeam</a>
 
   - 🔭 I’m currently learning **Java**
 
