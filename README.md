@@ -6,11 +6,11 @@
   <p>&#8226 🤝 I am a member of the EternalCode organization, which focuses on developing open-source projects. <a href =               "https://github.com/EternalCodeTeam">EternalCodeTeam</a>
   </p>
 
-  <p>&#8226 🔭 I’m currently learning **Java**</p>
+  <p>&#8226 🔭 I’m currently learning Java</p>
 
-  <p>&#8226 📫 How to reach me **Discord -> eripe14#6990**</p>
+  <p>&#8226 📫 How to reach me Discord -> eripe14#6990</p>
 
-  <p>&#8226 ⚡ Fun fact **I absolutely love dogs**</p>
+  <p>&#8226 ⚡ Fun fact I absolutely love dogs</p>
 </details>
 
 <details>
