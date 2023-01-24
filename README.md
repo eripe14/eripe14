@@ -3,14 +3,14 @@
 
 <details>
   <summary>About me</summary>
-  <i>&#8226 🤝 I am a member of the EternalCode organization, which focuses on developing open-source projects. <a href =               "https://github.com/EternalCodeTeam">EternalCodeTeam</a>
-  </i>
+  <p>&#8226 🤝 I am a member of the EternalCode organization, which focuses on developing open-source projects. <a href =               "https://github.com/EternalCodeTeam">EternalCodeTeam</a>
+  </p>
 
-  <i>&#8226 🔭 I’m currently learning **Java**</i>
+  <p>&#8226 🔭 I’m currently learning **Java**</p>
 
-  <i>&#8226 📫 How to reach me **Discord -> eripe14#6990**</i>
+  <p>&#8226 📫 How to reach me **Discord -> eripe14#6990**</p>
 
-  <i>&#8226 ⚡ Fun fact **I absolutely love dogs**</i>
+  <p>&#8226 ⚡ Fun fact **I absolutely love dogs**</p>
 </details>
 
 <details>
