@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eripe14&show_icons=true&theme=dracula)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eripe14&layout=compact&theme=dracula)]
 
 <h1 align="center">Hi 👋, I'm Karol eripe14 Dronia</h1>
 <h3 align="center">A passionate java developer from Poland</h3>
