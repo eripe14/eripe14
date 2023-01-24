@@ -16,7 +16,7 @@
 <details>
   <summary>GitHub statistics</summary>
   <p align = "center">
-    <img href = "https://github-readme-stats.vercel.app/api?username=eripe14&count_private=true&show_icons=true&theme=dracula"></img> 
+    <img src = "https://github-readme-stats.vercel.app/api?username=eripe14&count_private=true&show_icons=true&theme=dracula"></img> 
   </p>
 </details>
 
