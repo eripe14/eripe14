@@ -28,7 +28,7 @@
 </details>
 
 <details>
-  <summary<Contant with me</summary>
+  <summary>Contact with me</summary>
   <p align = "center">
     <img src = "https://discord.c99.nl/widget/theme-3/406091568378937344.png"</img>
   </p>
