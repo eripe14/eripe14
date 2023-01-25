@@ -26,3 +26,10 @@
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=eripe14&layout=compact&theme=dracula"></img> 
   </p>
 </details>
+
+<details>
+  <summary<Contant with me</summary>
+  <p align = "center">
+    <img src = "https://discord.c99.nl/widget/theme-3/406091568378937344.png"</img>
+  </p>
+</details>
