@@ -8,9 +8,7 @@
 
   <p>&#8226 🔭 I’m currently learning <b>Java</b></p>
 
-  <p>&#8226 📫 How to reach me? Discord <b>eripe14#6990</b></p>
-
-  <p>&#8226 ⚡ Fun fact I absolutely love <b>dogs</b></p>
+  <p>&#8226 📫 How to reach me? Discord <b>eripe14</b></p>
 </details>
 
 <details>
