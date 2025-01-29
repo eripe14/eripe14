@@ -3,5 +3,5 @@
   <h3 align="center">I'm a passionate Java developer from Poland</h3>
   
   <h2>👌 GitHub Stats</h2>
-  [![wakatime](https://wakatime.com/badge/user/f74c332e-e5bf-40df-aa77-4fbe582e5f3e.svg)](https://wakatime.com/@f74c332e-e5bf-40df-aa77-4fbe582e5f3e)
+  [![eripe14's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eripe14)](https://github.com/anuraghazra/github-readme-stats)
 </div>
